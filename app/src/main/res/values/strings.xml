@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UDP6_Android</string>
+    <string name="movie_poster">Poster of the movie to display</string>
+    <string name="clear_movies">Clear Movies</string>
+    <string name="load_movies">Load Movies</string>
+    <string name="detail_input_text" />
+    <string name="edit_button_detail_label">Edit</string>
+    <string name="cancel_detail_button_label">Cancel</string>
+    <string name="close_dialog_option">Close</string>
+    <string name="accept_dialog_option">Accept</string>
+</resources>
